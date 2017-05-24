@@ -1,2 +1,3 @@
 # jdtry
-京东试用
+* name: 用户名
+* password: 密码
